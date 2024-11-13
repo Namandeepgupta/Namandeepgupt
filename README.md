@@ -1,14 +1,23 @@
 
-Hello ! 🙏 I'm Namandeep, delighted to connect! 👋
+<h1 align="center"> Hello! <img src='https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif' width='50' height='50'> , I'm <em>Namandeep</em> delighted to connect 👋 ! </h1>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=1000&lines=I'm+a+Student%2C+Developer%2C+Competitive+Programmer%2C+and+Open+Source+Enthusiast!!)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 I'm a **Computer Science student** passionate about **software development** and excited to work on **real-world projects**! I love learning new technologies and tackling challenging problems to build impactful solutions. 
+
+<div float="right">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" height="200" align="right">
+</div>
 
 - 🎓 Currently pursuing B.Tech in Computer Science (2021-2025)
 - 💻 Proficient in **Java, Python, C/C++, HTML, CSS, JavaScript, SQL**
 - ⚙️ Experienced with **Oracle, MySQL, and DB2** databases
 - 🎯 Interested in **competitive programming** and **full-stack development**
 - 📸 Aspiring Chess and nature enthusiast
+
+
+<br/>
 
 ### 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
