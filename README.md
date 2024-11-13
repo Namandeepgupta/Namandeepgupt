@@ -5,10 +5,10 @@ Hello ! 🙏 I'm Namandeep, delighted to connect! 👋
 I'm a **Computer Science student** passionate about **software development** and excited to work on **real-world projects**! I love learning new technologies and tackling challenging problems to build impactful solutions. 
 
 - 🎓 Currently pursuing B.Tech in Computer Science (2021-2025)
-- 💻 Proficient in **Java, Python, C/C++, HTML, CSS, JavaScript, PHP, SQL**
+- 💻 Proficient in **Java, Python, C/C++, HTML, CSS, JavaScript, SQL**
 - ⚙️ Experienced with **Oracle, MySQL, and DB2** databases
 - 🎯 Interested in **competitive programming** and **full-stack development**
-- 📸 Aspiring photographer and nature enthusiast
+- 📸 Aspiring Chess and nature enthusiast
 
 ### 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -22,6 +22,8 @@ I'm a **Computer Science student** passionate about **software development** and
 
 ### 📈 GitHub Stats
 ![Namandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=namandeepgupt&show_icons=true&theme=radical)
+
+![Profile Views](https://hitcount.herokuapp.com/github/username/namandeepgupt.svg)
 
 ### 🚀 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namandeep-gupta-047533237)
