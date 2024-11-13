@@ -23,7 +23,9 @@ I'm a **Computer Science student** passionate about **software development** and
 ### 📈 GitHub Stats
 ![Namandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=namandeepgupt&show_icons=true&theme=radical)
 
-![Profile Views](https://hitcount.herokuapp.com/github/username/namandeepgupt.svg)
+### 📊 Profile Views
+![Profile Views](https://hits.dwyl.com/username/namandeepgupt.svg)
+
 
 ### 🚀 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namandeep-gupta-047533237)
