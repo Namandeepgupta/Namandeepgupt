@@ -1,2 +1,2 @@
-# Namandeepgupt
+# Namandeepgupta
 Hello ! 🙏 I'm Namandeep, delighted to connect! 👋
