@@ -20,9 +20,6 @@ I'm a **Computer Science student** passionate about **software development** and
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 📈 GitHub Stats
-![Namandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=namandeepgupt&show_icons=true&theme=radical)
-
 ### 📊 Profile Views
 ![Profile Views](https://hits.dwyl.com/username/namandeepgupt.svg)
 
